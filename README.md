@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [social-feed]()
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
